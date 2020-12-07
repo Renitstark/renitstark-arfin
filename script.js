@@ -24,20 +24,20 @@ var models = [
     {
         url: './assets/pink.gltf',
         scale: '0.1 0.1 0.1',
-        info: 'Magnemite, Lv. 5, HP 10/10',
+        info: 'PINK',
         rotation: '0 180 0',
     },
     {
         url: './assets/green.gltf',
         scale: '0.1 0.2 0.2',
         rotation: '0 0 0',
-        info: 'Articuno, Lv. 80, HP 100/100',
+        info: 'GREEN',
     },
     {
         url: './assets/jasmine.gltf',
         scale: '0.1 0.1 0.1',
         rotation: '0 180 0',
-        info: 'Dragonite, Lv. 99, HP 150/150',
+        info: 'JASMINE',
     },
 ];
 
